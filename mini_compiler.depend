@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1733303974 source:g:\diu\fall 2024\compiler design lab\project\mini_compiler\main.c
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+
